@@ -1,4 +1,5 @@
 # syskills
-ICCS121 will I survive?
+ICCS121
+Started by doing bandit wargame. Wait... war game? Our war game?!
 
 ![Alt text](banditoverthewire/wargame.jpg)
