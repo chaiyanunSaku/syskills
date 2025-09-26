@@ -33,7 +33,7 @@ for file in unorganized/*; do
     mv "$file" "$folder/"
 
     # print logs
-    echo "Moving $filename to %folder/"
+    echo "Moving $filename to $folder/"
 done
 
 echo "March finished the work!"
