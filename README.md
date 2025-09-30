@@ -1,5 +1,6 @@
 # syskills
-ICCS121
+
+ICCS121 - "what is the different between git and github?"
 
 ## What I usually do
 - ***Aura farm*** in Elden Ring Nightreign
