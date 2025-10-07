@@ -1,7 +1,7 @@
 #!/bin/bash
 
 file=$1
-current_year = 2025
+current_year=2025
 
 while IFS=',' read -r first last birth; do
 	birthyear=${birth:0:4}
